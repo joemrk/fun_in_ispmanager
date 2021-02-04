@@ -1,0 +1,20 @@
+{
+  "servers": [
+    {
+      "id": "49531",
+      "product": "VDS Plus (USA)",
+      "host": "11.11.111.111",
+      "user": "root",
+      "pass": "jia0wdhaw98d0",
+      "port": "3333"
+    },
+    {
+      "id": "49319",
+      "product": "VDS Plus (Latvia)",
+      "host": "22.22.222.222",
+      "user": "root",
+      "pass": "ha8w8d7a9",
+      "port": "3333"
+    }
+  ]
+}
